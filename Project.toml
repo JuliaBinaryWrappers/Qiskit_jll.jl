@@ -1,6 +1,6 @@
 name = "Qiskit_jll"
 uuid = "b54e8e98-f244-53b3-a8e8-4727a4907f76"
-version = "2.2.3+0"
+version = "2.2.3+1"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
