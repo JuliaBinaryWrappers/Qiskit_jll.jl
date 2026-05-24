@@ -1,44 +1,44 @@
 [[Qiskit]]
 arch = "aarch64"
-git-tree-sha1 = "7e7a562b4862ecf3eb492ee202d0c3bc7c65e01e"
+git-tree-sha1 = "c34e7a50e2fb7aecbe2361588edc9b0e18d5d29a"
 os = "macos"
 
     [[Qiskit.download]]
-    sha256 = "3ffc6d05ac91a9d2bfafa90222da229a91e9b976a333c90b8fe5b1463abfd0e3"
-    url = "https://github.com/JuliaBinaryWrappers/Qiskit_jll.jl/releases/download/Qiskit-v2.3.0+0/Qiskit.v2.3.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "81863990c73972ce10aaed34b3d823ed7e5356e51719ca17be80e7294a7be77e"
+    url = "https://github.com/JuliaBinaryWrappers/Qiskit_jll.jl/releases/download/Qiskit-v2.3.1+0/Qiskit.v2.3.1.aarch64-apple-darwin.tar.gz"
 [[Qiskit]]
 arch = "aarch64"
-git-tree-sha1 = "c6389961907ef9cb2e4c2a1bbaa3b68ee2c3e13d"
+git-tree-sha1 = "febe21c8c7b2d08ae8a5fdd462b7ce920eb470f0"
 libc = "glibc"
 os = "linux"
 
     [[Qiskit.download]]
-    sha256 = "06f5cc80855ca7fa46423fdd272ebed9b32e935dbff7484de0de907375d20c99"
-    url = "https://github.com/JuliaBinaryWrappers/Qiskit_jll.jl/releases/download/Qiskit-v2.3.0+0/Qiskit.v2.3.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "a23fb17fb975e9f7cf67579bf3453ad1b76864a2c3f67d762541073086fdffde"
+    url = "https://github.com/JuliaBinaryWrappers/Qiskit_jll.jl/releases/download/Qiskit-v2.3.1+0/Qiskit.v2.3.1.aarch64-linux-gnu.tar.gz"
 [[Qiskit]]
 arch = "aarch64"
-git-tree-sha1 = "6d928b4f0900b459d92fbbc8b41f987f9e9984f9"
+git-tree-sha1 = "8093d36e4ea87fc0f915dbfe6d2cecdb4a6c1ad4"
 libc = "musl"
 os = "linux"
 
     [[Qiskit.download]]
-    sha256 = "bf28c8f2deb39fa1d2278bb9a2a2e1e97a3c099de7cb1254826f69471257f980"
-    url = "https://github.com/JuliaBinaryWrappers/Qiskit_jll.jl/releases/download/Qiskit-v2.3.0+0/Qiskit.v2.3.0.aarch64-linux-musl.tar.gz"
+    sha256 = "7d4272572cd04e22254c1e6b0009ee34ecf71e64491a028824dd39ffde8bfa92"
+    url = "https://github.com/JuliaBinaryWrappers/Qiskit_jll.jl/releases/download/Qiskit-v2.3.1+0/Qiskit.v2.3.1.aarch64-linux-musl.tar.gz"
 [[Qiskit]]
 arch = "x86_64"
-git-tree-sha1 = "b5b68544cf92366a8e356473dc128c1f9b7665fe"
+git-tree-sha1 = "cd28736f6f19a61a12871403b120e68cfc3c972f"
 libc = "glibc"
 os = "linux"
 
     [[Qiskit.download]]
-    sha256 = "4f9af5c453b33d141de73eb02238c2503b49387464fbdc4b572ae6ef140f523d"
-    url = "https://github.com/JuliaBinaryWrappers/Qiskit_jll.jl/releases/download/Qiskit-v2.3.0+0/Qiskit.v2.3.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "57d5f2f4c519cd800dd409993b8f25dcba703172234727bb859f9f69dbe407f4"
+    url = "https://github.com/JuliaBinaryWrappers/Qiskit_jll.jl/releases/download/Qiskit-v2.3.1+0/Qiskit.v2.3.1.x86_64-linux-gnu.tar.gz"
 [[Qiskit]]
 arch = "x86_64"
-git-tree-sha1 = "a6309c40a06ca0c2a267efa57082277539d1ad0b"
+git-tree-sha1 = "b3adab0736f6314b46427833b3a0af034d015652"
 libc = "musl"
 os = "linux"
 
     [[Qiskit.download]]
-    sha256 = "0a693d57db1d19831a5a4c0aa11f513f161fe91f418d3fefea9774a56b360808"
-    url = "https://github.com/JuliaBinaryWrappers/Qiskit_jll.jl/releases/download/Qiskit-v2.3.0+0/Qiskit.v2.3.0.x86_64-linux-musl.tar.gz"
+    sha256 = "926f0ea2963da153477c9303a52bd11fcbc60fab39d6808a74fee9685a949e68"
+    url = "https://github.com/JuliaBinaryWrappers/Qiskit_jll.jl/releases/download/Qiskit-v2.3.1+0/Qiskit.v2.3.1.x86_64-linux-musl.tar.gz"
